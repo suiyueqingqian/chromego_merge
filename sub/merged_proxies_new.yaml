@@ -1450,7 +1450,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: United States_None_vmess_096
+- name: None_None_vmess_096
   type: vmess
   server: japan.com
   port: 2086
@@ -1480,7 +1480,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: None_None_vmess_098
+- name: United States_None_vmess_098
   type: vmess
   server: russia.com
   port: 2086
@@ -1510,7 +1510,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: None_None_vmess_0100
+- name: United States_None_vmess_0100
   type: vmess
   server: skk.moe
   port: 2086
@@ -3022,7 +3022,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: China_Guangzhou_vmess_1144
+  name: China_Shenzhen_vmess_1144
   network: ws
   port: 46001
   server: mmhk01.micloud.buzz
@@ -3133,7 +3133,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: United States_None_vmess_1154
+  name: None_None_vmess_1154
   network: ws
   port: '8080'
   server: cfcdn1.sanfencdn9.com
@@ -3196,7 +3196,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: China_Guangzhou_vmess_1160
+  name: China_Shenzhen_vmess_1160
   network: ws
   port: '46001'
   server: mmhk01.micloud.buzz
@@ -3224,7 +3224,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_1163
+  name: United States_None_vmess_1163
   network: ws
   port: '2052'
   server: 4.6bnw.top
@@ -3509,11 +3509,11 @@ proxy-groups:
   - Canada_Ottawa_vmess_093
   - None_None_vmess_094
   - United States_None_vmess_095
-  - United States_None_vmess_096
+  - None_None_vmess_096
   - None_None_vmess_097
-  - None_None_vmess_098
+  - United States_None_vmess_098
   - United States_None_vmess_099
-  - None_None_vmess_0100
+  - United States_None_vmess_0100
   - None_None_vmess_0101
   - None_None_vmess_11
   - None_None_vmess_12
@@ -3615,7 +3615,7 @@ proxy-groups:
   - None_None_vmess_1141
   - United States_None_vmess_1142
   - China_None_vmess_1143
-  - China_Guangzhou_vmess_1144
+  - China_Shenzhen_vmess_1144
   - China_None_trojan_1145
   - Hong Kong_Kowloon_trojan_1146
   - China_None_trojan_1147
@@ -3625,16 +3625,16 @@ proxy-groups:
   - Singapore_Singapore_ss_1151
   - China_Shenzhen_vmess_1152
   - None_None_vmess_1153
-  - United States_None_vmess_1154
+  - None_None_vmess_1154
   - None_None_vmess_1155
   - Japan_Tokyo_ss_1156
   - Singapore_Singapore_ss_1157
   - South Korea_Incheon_ss_1158
   - China_None_vmess_1159
-  - China_Guangzhou_vmess_1160
+  - China_Shenzhen_vmess_1160
   - China_None_trojan_1161
   - Hong Kong_Central_trojan_1162
-  - None_None_vmess_1163
+  - United States_None_vmess_1163
   - None_None_vmess_1164
   - Singapore_Singapore_trojan_1165
   - Taiwan_Taipei_trojan_1166
@@ -3753,11 +3753,11 @@ proxy-groups:
   - Canada_Ottawa_vmess_093
   - None_None_vmess_094
   - United States_None_vmess_095
-  - United States_None_vmess_096
+  - None_None_vmess_096
   - None_None_vmess_097
-  - None_None_vmess_098
+  - United States_None_vmess_098
   - United States_None_vmess_099
-  - None_None_vmess_0100
+  - United States_None_vmess_0100
   - None_None_vmess_0101
   - None_None_vmess_11
   - None_None_vmess_12
@@ -3859,7 +3859,7 @@ proxy-groups:
   - None_None_vmess_1141
   - United States_None_vmess_1142
   - China_None_vmess_1143
-  - China_Guangzhou_vmess_1144
+  - China_Shenzhen_vmess_1144
   - China_None_trojan_1145
   - Hong Kong_Kowloon_trojan_1146
   - China_None_trojan_1147
@@ -3869,16 +3869,16 @@ proxy-groups:
   - Singapore_Singapore_ss_1151
   - China_Shenzhen_vmess_1152
   - None_None_vmess_1153
-  - United States_None_vmess_1154
+  - None_None_vmess_1154
   - None_None_vmess_1155
   - Japan_Tokyo_ss_1156
   - Singapore_Singapore_ss_1157
   - South Korea_Incheon_ss_1158
   - China_None_vmess_1159
-  - China_Guangzhou_vmess_1160
+  - China_Shenzhen_vmess_1160
   - China_None_trojan_1161
   - Hong Kong_Central_trojan_1162
-  - None_None_vmess_1163
+  - United States_None_vmess_1163
   - None_None_vmess_1164
   - Singapore_Singapore_trojan_1165
   - Taiwan_Taipei_trojan_1166
