@@ -250,7 +250,7 @@ proxies:
   tfo: false
   type: ss
 - cipher: rc4-md5
-  name: China_None_ss_1012
+  name: China_Shenzhen_ss_1012
   password: efanccyun
   plugin: obfs
   plugin-opts:
@@ -324,7 +324,7 @@ proxies:
       Host: baidu.com
     path: /oooo
 - cipher: rc4-md5
-  name: China_None_ss_1019
+  name: China_Shenzhen_ss_1019
   password: efanccyun
   plugin: obfs
   plugin-opts:
@@ -726,7 +726,7 @@ proxies:
   tfo: false
   type: ss
 - cipher: rc4-md5
-  name: China_None_ss_1122
+  name: China_Shenzhen_ss_1122
   password: efanccyun
   plugin: obfs
   plugin-opts:
@@ -800,7 +800,7 @@ proxies:
       Host: baidu.com
     path: /oooo
 - cipher: rc4-md5
-  name: China_None_ss_1129
+  name: China_Shenzhen_ss_1129
   password: efanccyun
   plugin: obfs
   plugin-opts:
@@ -1152,14 +1152,14 @@ proxy-groups:
   - Taiwan_Yunlin_ss_109
   - Taiwan_Taichung_ss_1010
   - Taiwan_Taichung_ss_1011
-  - China_None_ss_1012
+  - China_Shenzhen_ss_1012
   - Japan_Tokyo_ss_1013
   - Japan_Tokyo_trojan_1014
   - Japan_Tokyo_trojan_1015
   - Japan_Tokyo_trojan_1016
   - Japan_Tokyo_trojan_1017
   - China_None_vmess_1018
-  - China_None_ss_1019
+  - China_Shenzhen_ss_1019
   - Japan_Tokyo_trojan_1020
   - Japan_Tokyo_trojan_1021
   - Hong Kong_None_vmess_1022
@@ -1198,14 +1198,14 @@ proxy-groups:
   - Taiwan_Yunlin_ss_1119
   - Taiwan_Taichung_ss_1120
   - Taiwan_Taichung_ss_1121
-  - China_None_ss_1122
+  - China_Shenzhen_ss_1122
   - Japan_Tokyo_ss_1123
   - Japan_Tokyo_trojan_1124
   - Japan_Tokyo_trojan_1125
   - Japan_Tokyo_trojan_1126
   - Japan_Tokyo_trojan_1127
   - China_None_vmess_1128
-  - China_None_ss_1129
+  - China_Shenzhen_ss_1129
   - Japan_Tokyo_trojan_1130
   - Japan_Tokyo_trojan_1131
   - Hong Kong_None_vmess_1132
@@ -1260,14 +1260,14 @@ proxy-groups:
   - Taiwan_Yunlin_ss_109
   - Taiwan_Taichung_ss_1010
   - Taiwan_Taichung_ss_1011
-  - China_None_ss_1012
+  - China_Shenzhen_ss_1012
   - Japan_Tokyo_ss_1013
   - Japan_Tokyo_trojan_1014
   - Japan_Tokyo_trojan_1015
   - Japan_Tokyo_trojan_1016
   - Japan_Tokyo_trojan_1017
   - China_None_vmess_1018
-  - China_None_ss_1019
+  - China_Shenzhen_ss_1019
   - Japan_Tokyo_trojan_1020
   - Japan_Tokyo_trojan_1021
   - Hong Kong_None_vmess_1022
@@ -1306,14 +1306,14 @@ proxy-groups:
   - Taiwan_Yunlin_ss_1119
   - Taiwan_Taichung_ss_1120
   - Taiwan_Taichung_ss_1121
-  - China_None_ss_1122
+  - China_Shenzhen_ss_1122
   - Japan_Tokyo_ss_1123
   - Japan_Tokyo_trojan_1124
   - Japan_Tokyo_trojan_1125
   - Japan_Tokyo_trojan_1126
   - Japan_Tokyo_trojan_1127
   - China_None_vmess_1128
-  - China_None_ss_1129
+  - China_Shenzhen_ss_1129
   - Japan_Tokyo_trojan_1130
   - Japan_Tokyo_trojan_1131
   - Hong Kong_None_vmess_1132
