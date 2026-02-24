@@ -304,7 +304,7 @@ proxies:
     headers:
       Host: 17718944722777.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: United States_San Francisco_trojan_1114
+- name: None_None_trojan_1114
   network: ws
   password: 92544946-dea2-4cd9-bd5b-32be565a5a62
   port: 2087
@@ -340,7 +340,7 @@ proxies:
     headers:
       Host: 17718944726551.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: United States_San Francisco_trojan_1117
+- name: None_None_trojan_1117
   network: ws
   password: 92544946-dea2-4cd9-bd5b-32be565a5a62
   port: 2096
@@ -352,7 +352,7 @@ proxies:
     headers:
       Host: 17718944726804.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: United States_San Francisco_trojan_1118
+- name: None_None_trojan_1118
   network: ws
   password: 92544946-dea2-4cd9-bd5b-32be565a5a62
   port: 8443
@@ -688,7 +688,7 @@ proxies:
   uuid: f95cb5ae-1b06-4a57-aba0-30afe12d23ed
 - alpn:
   - http/1.1
-  name: United States_None_trojan_1147
+  name: None_None_trojan_1147
   network: ws
   password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
   port: 443
@@ -1043,11 +1043,11 @@ proxy-groups:
   - Hong Kong_Hong Kong_vmess_1111
   - United Kingdom_None_vmess_1112
   - United States_San Francisco_trojan_1113
-  - United States_San Francisco_trojan_1114
+  - None_None_trojan_1114
   - United States_San Francisco_trojan_1115
   - United States_San Francisco_trojan_1116
-  - United States_San Francisco_trojan_1117
-  - United States_San Francisco_trojan_1118
+  - None_None_trojan_1117
+  - None_None_trojan_1118
   - None_None_trojan_1119
   - United States_San Francisco_trojan_1120
   - None_None_trojan_1121
@@ -1076,7 +1076,7 @@ proxy-groups:
   - China_None_vmess_1144
   - None_None_vmess_1145
   - Iran_None_vmess_1146
-  - United States_None_trojan_1147
+  - None_None_trojan_1147
   - United States_None_vmess_1148
   - United States_None_vmess_1149
   - China_None_vmess_1150
@@ -1149,11 +1149,11 @@ proxy-groups:
   - Hong Kong_Hong Kong_vmess_1111
   - United Kingdom_None_vmess_1112
   - United States_San Francisco_trojan_1113
-  - United States_San Francisco_trojan_1114
+  - None_None_trojan_1114
   - United States_San Francisco_trojan_1115
   - United States_San Francisco_trojan_1116
-  - United States_San Francisco_trojan_1117
-  - United States_San Francisco_trojan_1118
+  - None_None_trojan_1117
+  - None_None_trojan_1118
   - None_None_trojan_1119
   - United States_San Francisco_trojan_1120
   - None_None_trojan_1121
@@ -1182,7 +1182,7 @@ proxy-groups:
   - China_None_vmess_1144
   - None_None_vmess_1145
   - Iran_None_vmess_1146
-  - United States_None_trojan_1147
+  - None_None_trojan_1147
   - United States_None_vmess_1148
   - United States_None_vmess_1149
   - China_None_vmess_1150
